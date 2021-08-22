@@ -1,4 +1,5 @@
-<h1 align=center> Commands to install correct drivers for TP-Link TL-WN722N</p>
+<h1 align=center> Commands to install correct drivers for 
+  TP-Link TL-WN722N</p>
 
 ### Install pkgs
 ```bash
