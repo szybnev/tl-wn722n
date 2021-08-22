@@ -1,0 +1,1 @@
+sudo apt install dkms ; sudo rmmod r8188eu.ko ; git clone https://github.com/aircrack-ng/rtl8188eus ; cd rtl8188eus ; sudo -i ; echo "blacklist r8188eu" > "/etc/modprobe.d/realtek.conf" ; clear ; echo Now your pc will be reboot after 1 min ; sleep 1m ; sudo reboot
